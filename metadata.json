@@ -1,0 +1,6 @@
+{
+  "name": "Personal Finance Manager",
+  "description": "Um aplicativo de finanças pessoais de alta fidelidade com ciclos de faturamento mensais personalizados, interface baseada em Material Design 3 e observadores reativos de fluxo de dados.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
